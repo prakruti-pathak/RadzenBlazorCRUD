@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repos\\RadzenBlazor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D73D96FF-7A17-4D31-80BE-37BFBFB62638}|RadzenBlazor\\RadzenBlazor.csproj|c:\\repos\\radzenblazor\\radzenblazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D73D96FF-7A17-4D31-80BE-37BFBFB62638}|RadzenBlazor\\RadzenBlazor.csproj|solutionrelative:radzenblazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73D96FF-7A17-4D31-80BE-37BFBFB62638}|RadzenBlazor\\RadzenBlazor.csproj|c:\\repos\\radzenblazor\\radzenblazor\\components\\editcardialog.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D73D96FF-7A17-4D31-80BE-37BFBFB62638}|RadzenBlazor\\RadzenBlazor.csproj|solutionrelative:radzenblazor\\components\\editcardialog.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73D96FF-7A17-4D31-80BE-37BFBFB62638}|RadzenBlazor\\RadzenBlazor.csproj|c:\\repos\\radzenblazor\\radzenblazor\\components\\addcardialog.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D73D96FF-7A17-4D31-80BE-37BFBFB62638}|RadzenBlazor\\RadzenBlazor.csproj|solutionrelative:radzenblazor\\components\\addcardialog.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73D96FF-7A17-4D31-80BE-37BFBFB62638}|RadzenBlazor\\RadzenBlazor.csproj|c:\\repos\\radzenblazor\\radzenblazor\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73D96FF-7A17-4D31-80BE-37BFBFB62638}|RadzenBlazor\\RadzenBlazor.csproj|solutionrelative:radzenblazor\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73D96FF-7A17-4D31-80BE-37BFBFB62638}|RadzenBlazor\\RadzenBlazor.csproj|c:\\repos\\radzenblazor\\radzenblazor\\infrastructure\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73D96FF-7A17-4D31-80BE-37BFBFB62638}|RadzenBlazor\\RadzenBlazor.csproj|solutionrelative:radzenblazor\\infrastructure\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73D96FF-7A17-4D31-80BE-37BFBFB62638}|RadzenBlazor\\RadzenBlazor.csproj|c:\\repos\\radzenblazor\\radzenblazor\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D73D96FF-7A17-4D31-80BE-37BFBFB62638}|RadzenBlazor\\RadzenBlazor.csproj|solutionrelative:radzenblazor\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73D96FF-7A17-4D31-80BE-37BFBFB62638}|RadzenBlazor\\RadzenBlazor.csproj|c:\\repos\\radzenblazor\\radzenblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73D96FF-7A17-4D31-80BE-37BFBFB62638}|RadzenBlazor\\RadzenBlazor.csproj|solutionrelative:radzenblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73D96FF-7A17-4D31-80BE-37BFBFB62638}|RadzenBlazor\\RadzenBlazor.csproj|c:\\repos\\radzenblazor\\radzenblazor\\services\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73D96FF-7A17-4D31-80BE-37BFBFB62638}|RadzenBlazor\\RadzenBlazor.csproj|solutionrelative:radzenblazor\\services\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Repos\\RadzenBlazor\\RadzenBlazor\\Migrations\\20241128091444_Initial Create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RadzenBlazor\\Migrations\\20241128091444_Initial Create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73D96FF-7A17-4D31-80BE-37BFBFB62638}|RadzenBlazor\\RadzenBlazor.csproj|c:\\repos\\radzenblazor\\radzenblazor\\infrastructure\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73D96FF-7A17-4D31-80BE-37BFBFB62638}|RadzenBlazor\\RadzenBlazor.csproj|solutionrelative:radzenblazor\\infrastructure\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73D96FF-7A17-4D31-80BE-37BFBFB62638}|RadzenBlazor\\RadzenBlazor.csproj|c:\\repos\\radzenblazor\\radzenblazor\\domains\\cardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73D96FF-7A17-4D31-80BE-37BFBFB62638}|RadzenBlazor\\RadzenBlazor.csproj|solutionrelative:radzenblazor\\domains\\cardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73D96FF-7A17-4D31-80BE-37BFBFB62638}|RadzenBlazor\\RadzenBlazor.csproj|c:\\repos\\radzenblazor\\radzenblazor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D73D96FF-7A17-4D31-80BE-37BFBFB62638}|RadzenBlazor\\RadzenBlazor.csproj|solutionrelative:radzenblazor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73D96FF-7A17-4D31-80BE-37BFBFB62638}|RadzenBlazor\\RadzenBlazor.csproj|c:\\repos\\radzenblazor\\radzenblazor\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73D96FF-7A17-4D31-80BE-37BFBFB62638}|RadzenBlazor\\RadzenBlazor.csproj|solutionrelative:radzenblazor\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73D96FF-7A17-4D31-80BE-37BFBFB62638}|RadzenBlazor\\RadzenBlazor.csproj|c:\\repos\\radzenblazor\\radzenblazor\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D73D96FF-7A17-4D31-80BE-37BFBFB62638}|RadzenBlazor\\RadzenBlazor.csproj|solutionrelative:radzenblazor\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73D96FF-7A17-4D31-80BE-37BFBFB62638}|RadzenBlazor\\RadzenBlazor.csproj|c:\\repos\\radzenblazor\\radzenblazor\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D73D96FF-7A17-4D31-80BE-37BFBFB62638}|RadzenBlazor\\RadzenBlazor.csproj|solutionrelative:radzenblazor\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73D96FF-7A17-4D31-80BE-37BFBFB62638}|RadzenBlazor\\RadzenBlazor.csproj|c:\\repos\\radzenblazor\\radzenblazor\\radzenblazor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D73D96FF-7A17-4D31-80BE-37BFBFB62638}|RadzenBlazor\\RadzenBlazor.csproj|solutionrelative:radzenblazor\\radzenblazor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddCarDialog.razor",
+              "DocumentMoniker": "C:\\Repos\\RadzenBlazor\\RadzenBlazor\\Components\\AddCarDialog.razor",
+              "RelativeDocumentMoniker": "RadzenBlazor\\Components\\AddCarDialog.razor",
+              "ToolTip": "C:\\Repos\\RadzenBlazor\\RadzenBlazor\\Components\\AddCarDialog.razor",
+              "RelativeToolTip": "RadzenBlazor\\Components\\AddCarDialog.razor",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAC8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T11:08:31.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditCarDialog.razor",
+              "DocumentMoniker": "C:\\Repos\\RadzenBlazor\\RadzenBlazor\\Components\\EditCarDialog.razor",
+              "RelativeDocumentMoniker": "RadzenBlazor\\Components\\EditCarDialog.razor",
+              "ToolTip": "C:\\Repos\\RadzenBlazor\\RadzenBlazor\\Components\\EditCarDialog.razor",
+              "RelativeToolTip": "RadzenBlazor\\Components\\EditCarDialog.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T09:39:28.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Repos\\RadzenBlazor\\RadzenBlazor\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "RadzenBlazor\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Repos\\RadzenBlazor\\RadzenBlazor\\Components\\Pages\\Home.razor*",
+              "RelativeToolTip": "RadzenBlazor\\Components\\Pages\\Home.razor*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T10:09:40.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarRepository.cs",
+              "DocumentMoniker": "C:\\Repos\\RadzenBlazor\\RadzenBlazor\\Infrastructure\\CarRepository.cs",
+              "RelativeDocumentMoniker": "RadzenBlazor\\Infrastructure\\CarRepository.cs",
+              "ToolTip": "C:\\Repos\\RadzenBlazor\\RadzenBlazor\\Infrastructure\\CarRepository.cs",
+              "RelativeToolTip": "RadzenBlazor\\Infrastructure\\CarRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwBgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:39:57.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarService.cs",
+              "DocumentMoniker": "C:\\Repos\\RadzenBlazor\\RadzenBlazor\\Services\\CarService.cs",
+              "RelativeDocumentMoniker": "RadzenBlazor\\Services\\CarService.cs",
+              "ToolTip": "C:\\Repos\\RadzenBlazor\\RadzenBlazor\\Services\\CarService.cs",
+              "RelativeToolTip": "RadzenBlazor\\Services\\CarService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA3wCEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T06:57:07.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Repos\\RadzenBlazor\\RadzenBlazor\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "RadzenBlazor\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Repos\\RadzenBlazor\\RadzenBlazor\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "RadzenBlazor\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T10:04:41.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repos\\RadzenBlazor\\RadzenBlazor\\Program.cs",
+              "RelativeDocumentMoniker": "RadzenBlazor\\Program.cs",
+              "ToolTip": "C:\\Repos\\RadzenBlazor\\RadzenBlazor\\Program.cs",
+              "RelativeToolTip": "RadzenBlazor\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T06:38:10.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICarService.cs",
+              "DocumentMoniker": "C:\\Repos\\RadzenBlazor\\RadzenBlazor\\Services\\ICarService.cs",
+              "RelativeDocumentMoniker": "RadzenBlazor\\Services\\ICarService.cs",
+              "ToolTip": "C:\\Repos\\RadzenBlazor\\RadzenBlazor\\Services\\ICarService.cs",
+              "RelativeToolTip": "RadzenBlazor\\Services\\ICarService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:10:47.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241128091444_Initial Create.cs",
+              "DocumentMoniker": "C:\\Repos\\RadzenBlazor\\RadzenBlazor\\Migrations\\20241128091444_Initial Create.cs",
+              "RelativeDocumentMoniker": "RadzenBlazor\\Migrations\\20241128091444_Initial Create.cs",
+              "ToolTip": "C:\\Repos\\RadzenBlazor\\RadzenBlazor\\Migrations\\20241128091444_Initial Create.cs",
+              "RelativeToolTip": "RadzenBlazor\\Migrations\\20241128091444_Initial Create.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:14:44.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CarDbContext.cs",
+              "DocumentMoniker": "C:\\Repos\\RadzenBlazor\\RadzenBlazor\\Domains\\CarDbContext.cs",
+              "RelativeDocumentMoniker": "RadzenBlazor\\Domains\\CarDbContext.cs",
+              "ToolTip": "C:\\Repos\\RadzenBlazor\\RadzenBlazor\\Domains\\CarDbContext.cs",
+              "RelativeToolTip": "RadzenBlazor\\Domains\\CarDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:47:38.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Repos\\RadzenBlazor\\RadzenBlazor\\appsettings.json",
+              "RelativeDocumentMoniker": "RadzenBlazor\\appsettings.json",
+              "ToolTip": "C:\\Repos\\RadzenBlazor\\RadzenBlazor\\appsettings.json",
+              "RelativeToolTip": "RadzenBlazor\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-28T08:52:47.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Repos\\RadzenBlazor\\RadzenBlazor\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "RadzenBlazor\\Models\\Car.cs",
+              "ToolTip": "C:\\Repos\\RadzenBlazor\\RadzenBlazor\\Models\\Car.cs",
+              "RelativeToolTip": "RadzenBlazor\\Models\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:34:50.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICarRepository.cs",
+              "DocumentMoniker": "C:\\Repos\\RadzenBlazor\\RadzenBlazor\\Infrastructure\\ICarRepository.cs",
+              "RelativeDocumentMoniker": "RadzenBlazor\\Infrastructure\\ICarRepository.cs",
+              "ToolTip": "C:\\Repos\\RadzenBlazor\\RadzenBlazor\\Infrastructure\\ICarRepository.cs",
+              "RelativeToolTip": "RadzenBlazor\\Infrastructure\\ICarRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T06:55:58.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Repos\\RadzenBlazor\\RadzenBlazor\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "RadzenBlazor\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Repos\\RadzenBlazor\\RadzenBlazor\\Components\\_Imports.razor",
+              "RelativeToolTip": "RadzenBlazor\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T05:49:29.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Repos\\RadzenBlazor\\RadzenBlazor\\Components\\App.razor",
+              "RelativeDocumentMoniker": "RadzenBlazor\\Components\\App.razor",
+              "ToolTip": "C:\\Repos\\RadzenBlazor\\RadzenBlazor\\Components\\App.razor",
+              "RelativeToolTip": "RadzenBlazor\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T05:51:03.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RadzenBlazor",
+              "DocumentMoniker": "C:\\Repos\\RadzenBlazor\\RadzenBlazor\\RadzenBlazor.csproj",
+              "RelativeDocumentMoniker": "RadzenBlazor\\RadzenBlazor.csproj",
+              "ToolTip": "C:\\Repos\\RadzenBlazor\\RadzenBlazor\\RadzenBlazor.csproj",
+              "RelativeToolTip": "RadzenBlazor\\RadzenBlazor.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-28T05:39:27.637Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
